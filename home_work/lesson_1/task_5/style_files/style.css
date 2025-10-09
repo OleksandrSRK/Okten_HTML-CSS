@@ -1,11 +1,21 @@
 p{
     margin-top: 0;
-    width: 60%;
+    width: 50%;
+    color: white;
+}
+h3{
+    color: white;
 }
 h1 {
     margin-bottom: 0;
+    color: white;
 }
-h3{
+
+body{
+    background-image: url("https://image.tmdb.org/t/p/original/bPbgO4wO3NsZaMqI2vfJXEcecbF.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: right center;
 }
 
 img{
