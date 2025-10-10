@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+
+#textid1 {
+    color: red;
+}
+#textid2 {
+    color: green;
+}
+.text1 {
+    color: blue;
+}
+.text2 {
+    color: purple;
+    font-size: 26px;
+}
+
+body{
+    height: 100vh;
+    background-color: aqua;
+}
+
+.container{
+    background-color: darkgray;
+}
+.main_container{
+    background-color: antiquewhite;
+    display: flex;
+    gap: 20px;
+}
