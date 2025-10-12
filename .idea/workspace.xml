@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0497c01-6a3a-48fe-b603-178c756399a2" name="Changes" comment="add class_work lesson_2">
-      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_1/html_files/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_1/style_files/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_2/html_files/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_2/style_files/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_3/html_files/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_3/style_files/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_4/html_files/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_4/style_files/style.css" afterDir="false" />
+    <list default="true" id="f0497c01-6a3a-48fe-b603-178c756399a2" name="Changes" comment="add home_work lesson_2 task_1, task_2, task_4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_work/lesson_2/task_3/html_files/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home_work/lesson_2/task_3/html_files/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_work/lesson_2/task_3/style_files/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/home_work/lesson_2/task_3/style_files/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +105,7 @@
       <workItem from="1760136844760" duration="3131000" />
       <workItem from="1760199957744" duration="2417000" />
       <workItem from="1760203460124" duration="1324000" />
-      <workItem from="1760290722485" duration="4064000" />
+      <workItem from="1760290722485" duration="9385000" />
     </task>
     <task id="LOCAL-00001" summary="commit HomeWork_1">
       <option name="closed" value="true" />
@@ -153,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760139978339</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add home_work lesson_2 task_1, task_2, task_4">
+      <option name="closed" value="true" />
+      <created>1760294946656</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760294946656</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +177,7 @@
     <MESSAGE value="update home_work lesson_1 task_5" />
     <MESSAGE value="update home_work lesson_1 task_1" />
     <MESSAGE value="add class_work lesson_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add class_work lesson_2" />
+    <MESSAGE value="add home_work lesson_2 task_1, task_2, task_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add home_work lesson_2 task_1, task_2, task_4" />
   </component>
 </project>
