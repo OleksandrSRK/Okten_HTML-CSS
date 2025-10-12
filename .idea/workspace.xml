@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0497c01-6a3a-48fe-b603-178c756399a2" name="Changes" comment="update home_work lesson_1 task_1">
-      <change afterPath="$PROJECT_DIR$/class_work/lesson_2/html_files/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_work/lesson_2/style_files/style.css" afterDir="false" />
+    <list default="true" id="f0497c01-6a3a-48fe-b603-178c756399a2" name="Changes" comment="add class_work lesson_2">
+      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_1/html_files/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_1/style_files/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_2/html_files/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_2/style_files/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_3/html_files/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_3/style_files/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_4/html_files/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/lesson_2/task_4/style_files/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +65,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sasha/WebstormProjects/Okten_HTML-CSS/home_work/lesson_2/task_4&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -71,6 +78,12 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sasha\WebstormProjects\Okten_HTML-CSS\home_work\lesson_2\task_4" />
+      <recent name="C:\Users\sasha\WebstormProjects\Okten_HTML-CSS\home_work\lesson_2\task_3" />
+      <recent name="C:\Users\sasha\WebstormProjects\Okten_HTML-CSS\home_work\lesson_2\task_2" />
+      <recent name="C:\Users\sasha\WebstormProjects\Okten_HTML-CSS\home_work\lesson_2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sasha\WebstormProjects\Okten_HTML-CSS\home_work\lesson_1\task_4\html_files" />
     </key>
@@ -95,7 +108,10 @@
       <workItem from="1760015194822" duration="597000" />
       <workItem from="1760015862286" duration="1715000" />
       <workItem from="1760017725998" duration="180000" />
-      <workItem from="1760136844760" duration="3076000" />
+      <workItem from="1760136844760" duration="3131000" />
+      <workItem from="1760199957744" duration="2417000" />
+      <workItem from="1760203460124" duration="1324000" />
+      <workItem from="1760290722485" duration="4064000" />
     </task>
     <task id="LOCAL-00001" summary="commit HomeWork_1">
       <option name="closed" value="true" />
@@ -129,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760017749436</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add class_work lesson_2">
+      <option name="closed" value="true" />
+      <created>1760139978339</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760139978339</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +174,7 @@
     <MESSAGE value="commit HomeWork_1" />
     <MESSAGE value="update home_work lesson_1 task_5" />
     <MESSAGE value="update home_work lesson_1 task_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="update home_work lesson_1 task_1" />
+    <MESSAGE value="add class_work lesson_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class_work lesson_2" />
   </component>
 </project>
