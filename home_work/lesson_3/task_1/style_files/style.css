@@ -1,0 +1,30 @@
+body{
+    margin: 2%;
+}
+header, section, footer{
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    height: 70vh;
+    background-color: #2169ba;
+}
+main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4vh 0;
+}
+section{
+    background-color: #164479;
+    height: 70vh;
+    width: 30vw;
+    font-size: 38px;
+}
+footer{
+    height: 120vh;
+    background-color: #2169ba;
+}

@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    gap: 4vh;
+}
+#top-section{
+    background: #c36f5c;
+}
+#middle-section{
+    background: #8ae8e0;
+}
+#bottom-section{
+    background: #51c474;
+}
+h1{
+    font-size: 46px;
+}
+p{
+    font-size: 22px;
+    width: 80%;
+}
+img{
+    height: 80px;
+    width: 80px;
+}
+.arrow-down{
+    transform: scaleY(-1);
+}
