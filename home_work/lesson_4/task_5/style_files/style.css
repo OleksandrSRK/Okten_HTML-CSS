@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: #d7d7d7;
+    height: 4vh;
+}
+main{
+    display: flex;
+    height: 74vh;
+}
+main section{
+    background: #a3a3a3;
+    height: 100%;
+    width: 60vw;
+}
+.top-aside{
+    background: #7e7979;
+    width: 40vw;
+    height: 40vh;
+}
+.bottom-aside{
+    background: #604f4f;
+    width: 40vw;
+    height: 34vh;
+}
+footer{
+    height: 20vh;
+}
+.top-footer{
+    height: 10vh;
+    background: #d7d7d7;
+}
+.bottom-footer{
+    height: 12vh;
+    background: #aea8a8;
+}

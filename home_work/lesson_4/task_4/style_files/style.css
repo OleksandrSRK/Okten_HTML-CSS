@@ -1,0 +1,47 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header, footer, .section-content-1, .section-content-2, .section-content-3, .section-spam-1,.section-spam-2{
+    background: #8c8383;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    background: #bcbcbc;
+}
+main{
+    display: flex;
+    color: white;
+}
+.content-container{
+    height: 60vh;
+    width: 73vw;
+}
+.spam-container{
+    height: 60vh;
+    width: 27vw;
+}
+.section-content-1{
+    background: #766868;
+}
+.section-content-2{
+    background: #633030;
+}
+.section-content-3{
+    background: #431818;
+}
+.section-spam-1{
+    background: #927474;
+    height: 30vh;
+}
+.section-spam-2{
+    background: #634b4b;
+    height: 30vh;
+}
+p{
+    font-size: 32px;
+}

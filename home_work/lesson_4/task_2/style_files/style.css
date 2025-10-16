@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header, footer{
+    background: #d7d7d7;
+    height: 22vh;
+}
+main{
+    display: flex;
+}
+section{
+    background: #a3a3a3;
+    height: 56vh;
+    width: 46vw;
+}
+aside{
+    background: #bebcbc;
+    height: 56vh;
+    width: 27vw;
+}
