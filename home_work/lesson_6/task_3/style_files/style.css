@@ -1,0 +1,101 @@
+body{
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: arial, sans-serif;
+}
+.inst_registration{
+    width: 465px;
+    height: 550px;
+    background-color: #fdfdfd;
+    border: 1px solid #dadada;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 1px;
+}
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.inst_registration>img{
+    margin: 30px 0 50px 0;
+    height: 88px;
+}
+input{
+    display: block;
+}
+input[type="text"],
+input[type="password"]{
+    background-color: #f8f8f8;
+    border-radius: 4px;
+    border: 1px solid #dadada;
+    height: 42px;
+    width: 345px;
+    margin-bottom: 8px;
+    padding-left: 10px;
+    font-size: 18px;
+}
+input[type="submit"]{
+    margin: 12px auto 0 auto;
+    border-radius: 8px;
+    border: none;
+    background-color: #67b4f8;
+    width: 355px;
+    height: 42px;
+    color: #fdfdfd;
+    font-weight: 600;
+    font-size: 18px;
+}
+.inst_registration>form>p{
+    margin: 20px auto 0 auto;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #727272;
+}
+.social_login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+}
+.inst_registration>form>div>img{
+    height: 20px;
+    margin-right: 8px;
+}
+.inst_registration>form>div>a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    color: #375084;
+}
+.inst_registration>form>a{
+    text-decoration: none;
+    margin-top: 30px;
+    color: #0e3f71;
+}
+
+.footer_registration{
+    margin-top: 15px;
+    width: 465px;
+    height: 80px;
+    background-color: #fdfdfd;
+    border: 1px solid #dadada;
+    border-radius: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 19px;
+}
+.footer_registration>p>a{
+    text-decoration: none;
+    color: #0094f4;
+    font-weight: 600;
+}
+

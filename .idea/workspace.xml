@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0497c01-6a3a-48fe-b603-178c756399a2" name="Changes" comment="update home_work lesson_5">
-      <change afterPath="$PROJECT_DIR$/home_work/lesson_6/task_1/html_files/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/lesson_6/task_1/style_files/style.css" afterDir="false" />
+    <list default="true" id="f0497c01-6a3a-48fe-b603-178c756399a2" name="Changes" comment="add home_work lesson_6 task_1">
+      <change afterPath="$PROJECT_DIR$/home_work/lesson_6/task_2/html_files/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/lesson_6/task_2/style_files/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/lesson_6/task_3/html_files/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/lesson_6/task_3/style_files/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,36 +50,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.Lesson_1.html.executor": "Run",
-    "JavaScript Debug.index.html.executor": "Run",
-    "JavaScript Debug.task_1.html.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/sasha/WebstormProjects/Okten_HTML-CSS/home_work/lesson_6/task_1",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.Lesson_1.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.task_1.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sasha/WebstormProjects/Okten_HTML-CSS/home_work/lesson_6&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sasha\WebstormProjects\Okten_HTML-CSS\home_work\lesson_6" />
       <recent name="C:\Users\sasha\WebstormProjects\Okten_HTML-CSS\home_work\lesson_6\task_1" />
       <recent name="C:\Users\sasha\WebstormProjects\Okten_HTML-CSS\home_work\lesson_5" />
       <recent name="C:\Users\sasha\WebstormProjects\Okten_HTML-CSS\home_work\lesson_5\task_2" />
       <recent name="C:\Users\sasha\WebstormProjects\Okten_HTML-CSS\home_work\lesson_5\task_1-2" />
-      <recent name="C:\Users\sasha\WebstormProjects\Okten_HTML-CSS\home_work\lesson_5\task_1-1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sasha\WebstormProjects\Okten_HTML-CSS\home_work\lesson_6\task_1" />
@@ -116,7 +118,9 @@
       <workItem from="1761140265390" duration="6707000" />
       <workItem from="1761225126246" duration="9136000" />
       <workItem from="1761246796582" duration="1000" />
-      <workItem from="1761482327094" duration="2922000" />
+      <workItem from="1761482327094" duration="4990000" />
+      <workItem from="1761491902214" duration="7163000" />
+      <workItem from="1761514428638" duration="4830000" />
     </task>
     <task id="LOCAL-00001" summary="commit HomeWork_1">
       <option name="closed" value="true" />
@@ -206,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761234315862</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add home_work lesson_6 task_1">
+      <option name="closed" value="true" />
+      <created>1761487053666</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1761487053666</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +246,7 @@
     <MESSAGE value="add home_work lesson_4" />
     <MESSAGE value="add home_work lesson_5" />
     <MESSAGE value="update home_work lesson_5" />
-    <option name="LAST_COMMIT_MESSAGE" value="update home_work lesson_5" />
+    <MESSAGE value="add home_work lesson_6 task_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add home_work lesson_6 task_1" />
   </component>
 </project>
